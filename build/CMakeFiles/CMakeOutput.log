@@ -1,0 +1,25 @@
+The system is: Windows - 10.0.22621 - AMD64
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+psp-gcc.exe (GCC) 8.2.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Acer/Documents/homebrew/gtatriology_psp/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/pspdev/bin/make.exe -f Makefile cmTC_e1a0c/fast && /cygdrive/c/pspdev/bin/make  -f CMakeFiles/cmTC_e1a0c.dir/build.make CMakeFiles/cmTC_e1a0c.dir/build
+make: /bin/sh: Command not found
+make: *** [cmTC_e1a0c/fast] Error 127
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Acer/Documents/homebrew/gtatriology_psp/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/pspdev/bin/make.exe -f Makefile cmTC_d2b67/fast && /cygdrive/c/pspdev/bin/make  -f CMakeFiles/cmTC_d2b67.dir/build.make CMakeFiles/cmTC_d2b67.dir/build
+make: /bin/sh: Command not found
+make: *** [cmTC_d2b67/fast] Error 127
+
+
+

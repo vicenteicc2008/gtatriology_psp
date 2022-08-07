@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/build",
+  "command": "psp-gcc    -o CMakeFiles/GTA-SA-PSP.dir/main.c.obj -c C:/Users/Acer/Documents/homebrew/gtatriology_psp/main.c",
+  "file": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/main.c"
+},
+{
+  "directory": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/build",
+  "command": "psp-gcc    -o CMakeFiles/GTA-SA-PSP.dir/openal_patch.c.obj -c C:/Users/Acer/Documents/homebrew/gtatriology_psp/openal_patch.c",
+  "file": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/openal_patch.c"
+},
+{
+  "directory": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/build",
+  "command": "psp-gcc    -o CMakeFiles/GTA-SA-PSP.dir/opengl_patch.c.obj -c C:/Users/Acer/Documents/homebrew/gtatriology_psp/opengl_patch.c",
+  "file": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/opengl_patch.c"
+},
+{
+  "directory": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/build",
+  "command": "C:/pspsdk/bin/psp-gcc.exe   -Os -DNDEBUG -o CMakeFiles/GTA-SA-PSP.dir/memcpy_neon.S.obj -c C:/Users/Acer/Documents/homebrew/gtatriology_psp/memcpy_neon.S",
+  "file": "C:/Users/Acer/Documents/homebrew/gtatriology_psp/memcpy_neon.S"
+}
+]

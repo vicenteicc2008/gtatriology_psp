@@ -1,0 +1,3 @@
+C:/Users/Acer/Documents/homebrew/gtatriology_psp/build/CMakeFiles/GTA-SA-PSP.dir
+C:/Users/Acer/Documents/homebrew/gtatriology_psp/build/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Documents/homebrew/gtatriology_psp/build/CMakeFiles/rebuild_cache.dir
